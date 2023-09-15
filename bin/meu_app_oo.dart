@@ -1,5 +1,3 @@
-import 'dart:convert';
-import 'dart:io';
 
 import 'package:meu_app_oo/meu_app_ex.dart' as meu_app_ex;
 
